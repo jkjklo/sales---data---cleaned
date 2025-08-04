@@ -1,0 +1,35 @@
+orderid,date,salesperson,amount,product,region
+1001,05-01-2023,Alice Smith,1,000,Laptop
+1002,,Bob Jones,700,Phone,South
+1003,07-01-2023,Carol Wang,0,Tablet,East
+1004,,Alice Smith,1100,Laptop,North
+1005,08-01-2023,Bob Jones,700,Phone,South
+1006,08-01-2023,Unknown,850,Tablet,West
+1007,,Scott Rogers,900,Phone,West
+1008,,Linda Moore,1,250,Laptop
+1009,10-01-2023,James Wood,1200,Laptop,East
+1010,,Alicia Keys,0,Tablet,South
+1011,,Bob Jones,700,Phone,South
+1012,,Carol Wang,820,Tablet,East
+1013,16-01-2023,James Wood,1300,Laptop,North
+1014,,Anna Bell,650,Phone,West
+1015,,Alice Smith,1,000,Laptop
+1016,,Bob Jones,690,Phone,South
+1017,20-01-2023,Unknown,0,Tablet,West
+1018,,Bob Jones,700,Phone,South
+1019,22-01-2023,Linda Moore,0,Tablet,East
+1020,,Scott Rogers,880,Phone,North
+1021,,Caroline Li,750,Phone,South
+1022,,Bob Jones,800,Tablet,East
+1023,26-01-2023,Anna Bell,690,Phone,West
+1024,,James Wood,1,200,Laptop
+1025,,Alicia Keys,900,Tablet,South
+1026,,Anna Bell,650,Phone,West
+1027,,Unknown,830,Tablet,North
+1028,01-02-2023,Carol Wang,900,Laptop,East
+1029,,Scott Rogers,950,Phone,South
+1030,,Bob Jones,700,Phone,North
+1031,,Unknown,720,Tablet,West
+1032,05-02-2023,Linda Moore,1150,Laptop,East
+1033,,Anna Bell,830,Phone,South
+1034,07-02-2023,Bob Jones,1,000,Laptop
